@@ -8,7 +8,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>SSNtwZHIPMTNm4UJRTNB5fk8gnagU9Mz+cg7ZUaKLz4=</DigestValue>
+<DigestValue>oYK1vs7/tua3GOAgcOmkk3drm3B+E3Y8/RuJ42WXWnU=</DigestValue>
 </Reference>
 <Reference URI="css%2Fimages%2Fajax-loader.gif">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -57,14 +57,6 @@
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>rpmo0g5LxaKBbTpNctcev1QA48HTKOAbqNERmL8D300=</DigestValue>
-</Reference>
-<Reference URI="js%2FgoogleMaps%2FgoogleDistance.js">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>756TE42k+6BNiQ9zeYulmmr98j6PbAw04bY4VzBNmYQ=</DigestValue>
-</Reference>
-<Reference URI="js%2FgoogleMaps%2FgoogleLocation.js">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>3dYaj6V0OTuqmcnnZz1RB2acQjMKMhma5L6lhM7lKfM=</DigestValue>
 </Reference>
 <Reference URI="js%2Flib%2Fexternal%2Fjquery-1.8.0.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -123,11 +115,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-RgeMHPsUTG5yHrNe32yddxYtJBwTwB7y6d6st77BAPPKPsS1IQiQB2qWbdF3MFwJ39N750X1vkSL
-X1MaXse6QjDr7q9F67rrOd4KZbs5Y0Oa4fTnXKxyp1wKDCXYn8F5yFHsoBQVpjbmDHEPVaHay8ow
-w5bCw410bCJe8dJAicY1Jl7lTUgqW9Vpeaezb0FFxqNSDDIwbkLcp5eTD2vp+DqxrEIfP0csojhI
-333DkGeYInFYpZP6jgTvRJx5qayyJxYkb8Goq1B9/rETIZ/r4rmn6Xts2cR5y+f2wh8q3b1qrFkG
-m90S0f/0LpQtcv5U06XD7GiRC5g9NAAWvy6E8A==
+QoVjR8o0HrQCd2Tnjt9MPFjE+MWtg39Kd/1FW0rm7v0MjyMiAA0p208MI4hYbo/+82jGO6FDJy9m
+n/FtrX7Ucy4QnjzgYA0Y2fccAapdaBrZrUTXwkfAmfDBV3/FuYlqCFWu3nMYnTcvTb1KCPJk/NKy
+hWEjdX/FVzOr0K56QdgBqxgi/ribIR8gw4y387Leda36EHKJxjibgiRu1XzF3u//uq0Unch9+7AY
+Rbnasey1OVWtFcdojxgw66NfEqr9ECCa5GSNEphlEw1NxGoLIknrT6Swwk0LCDn7T0RDLNpPSotG
+xLiVouUMsrGK8ukZBxGyhfi/n5ga85+srfdBdA==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
